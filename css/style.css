@@ -4,14 +4,15 @@
   font-size: 100%;
   line-height: 1em;}
 
+/*---------MAIN STYLING------*/
 
 body{
 width: 70%;
 max-width: 600px;
 margin:auto;
 background: #fafafa;
-Colour: #333;
-
+color: #333;
+font-family: 'Libre Baskerville', serif;
 }
 /*----------TYPOGRAPHY------*/
 
@@ -36,12 +37,12 @@ margin: 1em;}
 h3 {font-size: 1.414em;
 margin-bottom: 1.5em;}
 
-/*
 blockquote {
-font-size:3em;
+font-size:1.414em;
 hanging-punctuation: first;
-text-indent: -0.44em}
+text-indent: -0.0.5em;
 color: #8F0040;
+}
 
 blockquote cite {
 font-size: 0.707em;

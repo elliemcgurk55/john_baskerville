@@ -1,0 +1,58 @@
+/*------- CSS RESET -------*/
+*{padding:0;
+  margin:0;
+  font-size: 100%;
+  line-height: 1em;}
+
+
+body{
+width: 70%;
+max-width: 500px;
+margin:auto;
+background: #fafafa;
+Colour: #333;
+
+}
+/*----------TYPOGRAPHY------*/
+
+h1, h2, h3 {
+font-weight: normal;
+color: #177BFF;
+text-align: center;
+}
+
+p,blockquote{
+margin-bottom: 1.5em;
+line-height: 1.4;
+}
+
+h1 {font-size: 2.827em;
+margin-top: 2em;
+margin-bottom: 0.1em;}
+
+h2 {font-size: 1.999em;
+margin: 1em;}
+
+h3 {font-size: 1.414em;
+margin-bottom: 1.5em;}
+
+/*
+blockquote {
+font-size:3em;
+hanging-punctuation: first;
+text-indent: -0.44em}
+color: #177BFF;
+
+blockquote cite {
+font-size: 0.707em;
+color: #333;
+}
+/*-------FOOTER-----*/
+
+footer {text-align: center;
+text-alight: center;
+font-size: 0.707em;
+padding: 2em 0 4em 0
+
+
+}

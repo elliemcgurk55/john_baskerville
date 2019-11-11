@@ -13,14 +13,20 @@ margin:auto;
 background: #fafafa;
 color: #333;
 font-family: 'Libre Baskerville', serif;
+
 }
 /*----------TYPOGRAPHY------*/
+
+
 
 h1, h2, h3 {
 font-weight: normal;
 color: rgb(216, 0, 126);
 text-align: center;
 }
+
+p {font-family: 'Libre Baskerville', serif;
+font-family: 'Open Sans', sans-serif;}
 
 p,blockquote{
 margin-bottom: 1.5em;

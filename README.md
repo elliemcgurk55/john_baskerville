@@ -7,7 +7,7 @@
 
 # History_of_type
 - [version 1](https://elliemcgurk55.github.io/john_baskerville/history1.html)
-*5th November
+*5th November*
 
 - [version 2](https://elliemcgurk55.github.io/john_baskerville/history2.html)
 *10 November*

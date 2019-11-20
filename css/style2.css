@@ -36,7 +36,6 @@ margin: 1em;}
 h3 {font-size: 1.414em;
 margin-bottom: 1.5em;}
 
-/*
 blockquote {
 font-size:3em;
 hanging-punctuation: first;
@@ -47,6 +46,7 @@ blockquote cite {
 font-size: 0.707em;
 color: #333;
 }
+
 /*-------FOOTER-----*/
 
 footer {text-align: center;

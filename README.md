@@ -8,6 +8,9 @@
 - [version 3](https://elliemcgurk55.github.io/john_baskerville/baskerville3.html)
 *11th November*
 
+- [version 4] (https://elliemcgurk55.github.io/john_baskerville/baskerville4.html)
+*18th November*
+
 # History_of_type
 - [version 1](https://elliemcgurk55.github.io/john_baskerville/history1.html)
 *5th November*

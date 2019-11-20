@@ -15,13 +15,20 @@ color: #333;
 font-family: 'Libre Baskerville', serif;
 
 }
+
+section, aside, header, footer {width: 80%;
+max-width: 700px;
+margin: auto;
+}
+
+
 /*----------TYPOGRAPHY------*/
 
 
 
 h1, h2, h3 {
 font-weight: normal;
-color: rgb(216, 0, 126);
+color: #8F0040;
 text-align: center;
 }
 
@@ -54,12 +61,76 @@ blockquote cite {
 font-size: 0.707em;
 color: #333;
 }
+
+
+/*------STYLING LINKS------*/
+a {
+  color: #8F0040;
+  text-decoration:none;
+}
+
+a:hover {
+  color: #26BED5;
+  border-bottom: 1px dotted;
+
+}
+
+
+
+
+/*-------NAVIGATION-------*/
+
+
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  background-color: #8F0040;
+  padding: 1em 0;
+  font-size: 0.75em;
+}
+
+nav ul {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+
+}
+
+nav ul li {
+  display: inline;
+  margin: 20px;
+
+}
+nav a:link {
+  color: #fafafa;
+
+}
+
+nav a:visited {
+  color: #fafafa;
+}
+
+nav a:hover {
+  border-bottom: none;
+  color: #26BED5;
+
+}
+
+.baskerville {
+  background: #333;
+
+}
+
 /*-------FOOTER-----*/
 
 footer {text-align: center;
-text-alight: center;
 font-size: 0.707em;
 padding: 2em 0 4em 0
+color: #8F0040;
 
 
 }

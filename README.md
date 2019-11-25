@@ -11,7 +11,7 @@
 - [version 4](https://elliemcgurk55.github.io/john_baskerville/baskerville4.html)
 *18th November*
 
-- [version 5] (https://elliemcgurk55.github.io/john_baskerville/baskerville5.html)
+- [version 5](https://elliemcgurk55.github.io/john_baskerville/baskerville5.html)
 *25th November*
 
 # History_of_type

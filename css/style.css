@@ -16,10 +16,62 @@ font-family: 'Libre Baskerville', serif;
 
 }
 
-section, aside, header, footer {width: 80%;
-max-width: 700px;
-margin: auto;
+section, aside, header, footer {
 }
+
+/*-------MEDIA QUERIES-----*/
+
+/*-------TABLET-------*/
+
+@media (max-width: 50em) {
+
+  body {
+    width: 100%;
+  }
+  header p, article {
+    width: 95%;
+    padding: 0.5em;
+  }
+
+article { flex-flow: column;
+           flex-direction: column;}
+
+section {width: 90%}
+
+aside {border-left: none;
+       margin: 0%;
+       padding-left: 1em;
+       font-size: 1.2em}
+}
+
+/*--------SMARTPHONE--------*/
+
+@media (max-width: 35em) {
+
+  body {
+    background: #c06;
+    margin: auto 0;
+    width: 100%
+  }
+}
+
+
+
+
+
+/*--------ADDING FLEXBOX-------*/
+
+article {display: flex;}
+
+.main{flex: 3}
+
+aside {flex: 1;
+        font-size: 0.75em;
+        font style: italic;
+        border-left: 1px solid #333;
+        padding-left: 2em;
+        padding-right: 1.5em;
+     }
 
 
 /*----------TYPOGRAPHY------*/

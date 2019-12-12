@@ -57,6 +57,23 @@ aside {border-left: none;
 
 
 
+
+
+/*--------ADDING FLEXBOX-------*/
+
+article {display: flex;}
+
+.main{flex: 3}
+
+aside {flex: 1;
+        font-size: 0.75em;
+        font style: italic;
+        border-left: 1px solid #333;
+        padding-left: 2em;
+        padding-right: 1.5em;
+     }
+
+
 /*----------TYPOGRAPHY------*/
 
 
